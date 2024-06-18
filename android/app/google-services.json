@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553693361241",
+    "project_id": "examen-programovil",
+    "storage_bucket": "examen-programovil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553693361241:android:25ec8e5b5b517aaa10ed48",
+        "android_client_info": {
+          "package_name": "com.example.examen_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyzpZPJw4pSJk2en8kBnLXR4DLskSHTa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
